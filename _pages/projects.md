@@ -4,6 +4,11 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+## Comparison of UMAP with PyMDE for single cell visualization
+<script src="https://gist.github.com/roayaei/2680e9c0fcdb1b40510e5e42e2cfb0b7.js"></script>
+
+## Using Transformers for Single Cell Celltype Classification
+
 
 
 ## Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation
