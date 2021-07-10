@@ -10,7 +10,6 @@ redirect_from:
 
 This is my personal page on github.
 
-What I am doing
 ======
 
 

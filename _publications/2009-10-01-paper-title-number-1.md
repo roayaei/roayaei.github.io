@@ -12,7 +12,4 @@ We present MUSTACHE, a new method for multi-scale detection of chromatin loops f
 
 [Download paper here](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02167-0)
 
-<p align="center">
-  <img src="../images/example2_hffc6_chr1_1kb.png" width="600" class="center">
-</p>
 Recommended citation: Roayaei Ardakany, A., Gezer, H.T., Lonardi, S. et al. Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation. Genome Biol 21, 256 (2020). https://doi.org/10.1186/s13059-020-02167-0.
