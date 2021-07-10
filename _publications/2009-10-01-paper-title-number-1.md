@@ -3,7 +3,7 @@ title: "Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A tool for multi-scale detection of chromatin loops from Hi-C and Micro-C maps.'
-date: 2020-30-09
+date: 2020-09-30
 venue: 'Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02167-0'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
