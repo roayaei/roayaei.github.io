@@ -2,7 +2,7 @@
 title: "Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A multi-scale algorithm for detection of chromatin loops from Hi-C and Micro-C maps.'
+excerpt: 'A tool for multi-scale detection of chromatin loops from Hi-C and Micro-C maps.'
 date: 2020-30-09
 venue: 'Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02167-0'
