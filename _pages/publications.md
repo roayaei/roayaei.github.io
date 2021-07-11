@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-####
 1. Abbas Roayaei Ardakany, Halil Tuvan Gezer, Stefano Lonardi, Ferhat Ay. Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation. Genome Biology 21, 256 (2020). https://doi.org/10.1186/s13059-020-02167-0.
 2. Abbas Roayaei Ardakany, Ferhat Ay, Stefano Lonardi, Selfish: discovery of differential chromatin interactions via a self-similarity measure, Bioinformatics, Volume 35, Issue 14, July 2019. (accepted in 27th Conference on Intelligent Systems for Molecular Biology ISMB/ECCB 2019).
 3. Abbas Roayaei Ardakany and Stefano Lonardi.  Efficient and Accurate Detection of Topologically Associating Domains from Contact Maps.  In Russell Schwartz and KnutReinert, editors, Proceedings of the 17th International Workshop on Algorithms in Bioinformatics (WABI2017), volume 88 of Leibniz International Proceedings in Informatics (LIPIcs), pages22:1–22:11, Dagstuhl, Germany, 2017.
