@@ -4,12 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Comparison of UMAP with PyMDE for single cell visualization
-<script src="https://gist.github.com/roayaei/2680e9c0fcdb1b40510e5e42e2cfb0b7.js"></script>
-
-## Comparison of SVM with CNN for Single Cell Celltype Classification
-<script src="https://gist.github.com/roayaei/f81500a11625c1d96f3ce6359a1253b0.js"></script>
-
 ## Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation
 We present MUSTACHE, a new method for multi-scale detection of chromatin loops from Hi-C and Micro-C contact maps. MUSTACHE employs scale-space theory, a technical advance in computer vision, to detect blob-shaped objects in contact maps. MUSTACHE is scalable to kilobase-resolution maps and reports loops that are highly consistent between replicates and between Hi-C and Micro-C datasets. Compared to other loop callers, such as HiCCUPS and SIP, MUSTACHE recovers a higher number of published ChIA-PET and HiChIP loops as well as loops linking promoters to regulatory elements. Overall, MUSTACHE enables an efficient and comprehensive analysis of chromatin loops. Available at: <a href="https://github.com/ay-lab/mustache">https://github.com/ay-lab/mustache</a>.
 
@@ -28,6 +22,12 @@ We present a novel method called Selfish for the comparative analysis of Hi-C da
 <p align="center">
   <img src="../images/ESvsNPC_final.png" width="600" class="center">
 </p>
+
+## Comparison of UMAP with PyMDE for single cell visualization
+<script src="https://gist.github.com/roayaei/2680e9c0fcdb1b40510e5e42e2cfb0b7.js"></script>
+
+## Comparison of SVM with CNN for Single Cell Celltype Classification
+<script src="https://gist.github.com/roayaei/f81500a11625c1d96f3ce6359a1253b0.js"></script>
 
 ## EAST: Efficient and Accurate Detection of Topologically Associating Domains from Contact Maps
 Continuous improvements to high-throughput conformation capture (Hi-C) are revealing richer information about the spatial organization of the chromatin and its role in cellular functions. Several studies have confirmed the existence of structural features of the genome 3D organization that are stable across cell types and conserved across species, called topological associating domains (TADs). The detection of TADs has become a critical step in the analysis of Hi-C data, e.g., to identify enhancer-promoter associations. Here we present East, a novel TAD identification algorithm based on fast 2D convolution of Haar-like features, that is as accurate as the state-of-the-art method based on the directionality index, but 75-80× faster. East is available in the public domain at <a href="https://github.com/ucrbioinfo/EAST">https://github.com/ucrbioinfo/EAST</a>.
