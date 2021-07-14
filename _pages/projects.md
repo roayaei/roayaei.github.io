@@ -8,7 +8,7 @@ author_profile: true
 <script src="https://gist.github.com/roayaei/2680e9c0fcdb1b40510e5e42e2cfb0b7.js"></script>
 
 ## Comparison of SVM with CNN for Single Cell Celltype Classification
-<script src="https://gist.github.com/roayaei/2680e9c0fcdb1b40510e5e42e2cfb0b7.js"></script>
+<script src="https://gist.github.com/roayaei/f81500a11625c1d96f3ce6359a1253b0.js"></script>
 
 ## Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation
 We present MUSTACHE, a new method for multi-scale detection of chromatin loops from Hi-C and Micro-C contact maps. MUSTACHE employs scale-space theory, a technical advance in computer vision, to detect blob-shaped objects in contact maps. MUSTACHE is scalable to kilobase-resolution maps and reports loops that are highly consistent between replicates and between Hi-C and Micro-C datasets. Compared to other loop callers, such as HiCCUPS and SIP, MUSTACHE recovers a higher number of published ChIA-PET and HiChIP loops as well as loops linking promoters to regulatory elements. Overall, MUSTACHE enables an efficient and comprehensive analysis of chromatin loops. Available at: <a href="https://github.com/ay-lab/mustache">https://github.com/ay-lab/mustache</a>.
