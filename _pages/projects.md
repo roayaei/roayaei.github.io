@@ -26,7 +26,10 @@ We present a novel method called Selfish for the comparative analysis of Hi-C da
 ## Comparison of UMAP with PyMDE for single cell visualization
 <script src="https://gist.github.com/roayaei/2680e9c0fcdb1b40510e5e42e2cfb0b7.js"></script>
 
-## Comparison of SVM with CNN for Single Cell Celltype Classification
+## Comparison of XGBoost, Random Forest and SVM in extracting feature importances for Classification of COVID19 and influenza patients from Clinical Data
+<script src="https://gist.github.com/roayaei/19eaad41b65517494842c51b21110c23.js"></script>
+
+## Comparison of SVM with CNN for Single Cell Celltype Classification from Cell Images
 <script src="https://gist.github.com/roayaei/f81500a11625c1d96f3ce6359a1253b0.js"></script>
 
 ## EAST: Efficient and Accurate Detection of Topologically Associating Domains from Contact Maps
