@@ -4,6 +4,12 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+## Comparative Analysis of ResNet and Vision Transformer for Chest X-ray Classification
+The present study involved a comparison between the two state-of-the-art deep learning models, namely ResNet and ViT, for a classification problem involving chest X-ray images. The dataset consisted of four classes, namely viral pneumonia, lung opacity, COVID-19, and normal. The performance of the models was evaluated in terms of their accuracy. ViT, with a fine-tuning duration of merely three epochs, outperformed ResNet, which was fine-tuned for ten epochs, by achieving an accuracy of 90% compared to ResNet's accuracy of 80%. The results suggest that ViT can achieve better performance than ResNet in the given classification task with a substantially shorter fine-tuning duration.
+
+<script src="https://gist.github.com/roayaei/83c107ac3e5508b4a2cb98d51c81ca21.js"></script>
+
 ## Mustache: multi-scale detection of chromatin loops from Hi-C and Micro-C maps using scale-space representation
 We present MUSTACHE, a new method for multi-scale detection of chromatin loops from Hi-C and Micro-C contact maps. MUSTACHE employs scale-space theory, a technical advance in computer vision, to detect blob-shaped objects in contact maps. MUSTACHE is scalable to kilobase-resolution maps and reports loops that are highly consistent between replicates and between Hi-C and Micro-C datasets. Compared to other loop callers, such as HiCCUPS and SIP, MUSTACHE recovers a higher number of published ChIA-PET and HiChIP loops as well as loops linking promoters to regulatory elements. Overall, MUSTACHE enables an efficient and comprehensive analysis of chromatin loops. Available at: <a href="https://github.com/ay-lab/mustache">https://github.com/ay-lab/mustache</a>.
 
