@@ -4,8 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Zero-shot segmentation using a CLIP-base segmentation model clipseg
-I conducted an evaluation of the clipseg algorithm provided by Hugging Face on a set of carefully selected example images. These images were specifically chosen to assess the algorithm's capability in performing basic reasoning tasks. One particular task involved segmenting cars and all individuals within an image, followed by identifying pedestrians who are at risk of being hit by a car. The outcome of this evaluation was interesting:
+## Zero-shot segmentation using a CLIP-base segmentation model CLIPSeg
+I conducted an evaluation of the CLIPSeg model (<a href="https://arxiv.org/abs/2112.10003">Image Segmentation Using Text and Image Prompts</a>) from Hugging Face on a set of carefully selected example images. These images were specifically chosen to assess the algorithm's capability in performing basic reasoning tasks. One particular task involved segmenting cars and all individuals within an image, followed by identifying pedestrians who are at risk of being hit by a car. The outcome of this evaluation was interesting:
 
 <p align="center">
   <img src="../images/CLIP_segmentation.png" hight="300" class="center">
